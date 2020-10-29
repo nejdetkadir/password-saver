@@ -4,11 +4,7 @@
       <NewPassword></NewPassword>
       <PasswordList></PasswordList>
     </div>
-    <hr>
-    <div class="row">
-      <PasswordDetails></PasswordDetails>
-    </div>
-    <hr>
+    <PasswordDetails></PasswordDetails>
   </div>
 </template>
 
